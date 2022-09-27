@@ -7,7 +7,7 @@ ReactJS MCQ Web App.
 
 3. Run npm run start to start the app.
 
-4. There ayou are!
+4. There you are!
 
 ## In Action
 
