@@ -15,4 +15,4 @@ ReactJS MCQ Web App.
 
 ReactJS MCQ Web App by [GAC DEV](https://geniusandcourage.com)
 
-![ReactJS MCQ Web App](https://geniusandcourage.com:8081/images/reactjs-mcq.png)
+![ReactJS MCQ Web App](https://hlwsdtech.com:8081/images/reactjs-mcq.png)
